@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F3F4F6"/>
+  
+  <!-- Tech Icons -->
+  <circle cx="200" cy="300" r="60" fill="#10B981" opacity="0.2"/>
+  <circle cx="400" cy="300" r="60" fill="#10B981" opacity="0.2"/>
+  <circle cx="600" cy="300" r="60" fill="#10B981" opacity="0.2"/>
+  
+  <!-- Developer Icon -->
+  <path d="M200 270 L200 330 M180 300 L220 300" stroke="#10B981" stroke-width="6"/>
+  
+  <!-- Community Icon -->
+  <path d="M380 270 C380 270, 420 270, 420 270 C420 270, 420 330, 420 330 C420 330, 380 330, 380 330 Z" stroke="#10B981" stroke-width="6" fill="none"/>
+  
+  <!-- Event Icon -->
+  <path d="M580 270 L620 300 L580 330 L540 300 Z" stroke="#10B981" stroke-width="6" fill="none"/>
+</svg> 
